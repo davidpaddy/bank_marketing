@@ -90,8 +90,7 @@ The deployed Streamlit application provides:
 - Confusion matrix and classification report
 
 ### Live App Link
-(Add Streamlit URL here)
+https://bankmarketing-2oagmjyc3eux7pqfurvqc6.streamlit.app/
 
 ---
 
-## 8. Repository Structure
